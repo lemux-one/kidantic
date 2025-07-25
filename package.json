@@ -1,0 +1,11 @@
+{
+  "name": "kidantic",
+  "version": "0.0.1",
+  "author": {
+    "name": "Luis Lemus"
+  },
+  "scripts": {},
+  "devDependencies": {
+    "@types/bun": "^1.2.19"
+  }
+}

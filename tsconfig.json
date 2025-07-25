@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src/common/modules",
+    "paths": {
+      "jsx-compat": ["jsx-compat"]
+    },
+    "jsx": "react-jsx",
+    "jsxImportSource": "jsx-compat"
+  }
+}
